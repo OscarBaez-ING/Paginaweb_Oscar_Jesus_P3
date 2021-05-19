@@ -1,0 +1,23 @@
+.container{
+	background-color: 	#EE82EE;
+	box-shadow: 2px 3px 4px 0px black;
+	font-size: 18px;
+	text-align: justify;
+}
+.Servicios-{
+font-size: 10px;
+}
+body{
+	background-image: url(images/inicio_2.jpg);
+
+
+}
+h2{
+	color: black;
+	font-size: 25px;
+}
+nav ul li :hover{
+    color: #e44e2d;
+    border-radius: 5px;
+    font-size: 27px;
+}
